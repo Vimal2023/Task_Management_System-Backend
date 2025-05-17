@@ -1,0 +1,35 @@
+# Environment variables
+.env
+
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# TypeScript compiled output
+dist/
+*.tsbuildinfo
+
+# Logs
+logs/
+*.log
+
+# Dependency lock files (optional, include if you want to track them)
+# package-lock.json
+# yarn.lock
+
+# Editor and OS files
+.DS_Store
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Test coverage
+coverage/
+
+# Local development
+*.local
