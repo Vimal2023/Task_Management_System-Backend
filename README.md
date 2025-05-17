@@ -1,5 +1,9 @@
 # Task Management System
 
+
+![____ __________ ______ About_Built with Express js, MongoDB, and TypeScript, featuring user authentication, task CRUD operations, and automated task status updates](https://github.com/user-attachments/assets/8533babd-8c81-4e28-a623-aed4b010d5ef)
+
+
 Built with Express.js, MongoDB, and TypeScript, featuring user authentication, task CRUD operations, and automated task status updates. Includes JWT-based security, Swagger documentation, and Jest unit tests for robust backend functionality.
 
 ## Table of Contents
